@@ -7,3 +7,6 @@ This program analyzes the trajectories of a trapped particle inside an optical t
 * Tassieri, M. et al. Measuring storage and loss moduli using optical tweezers: Broadband microrheology. Physical Review E 81, 026308 (2010).
 
 This program is published as a part of associated code for the manuscript "*Programmable Viscoelasticity in Protein-RNA Condensates with Disordered Sticker-Spacer Polypeptides*" by Alshareedah and coworkers.
+
+
+Two Juoyternotebooks are included in this repository. One is for analyzing passive microrheology with optical tweezer data to extract the rheological moduli of the medium (pypmot). The second is to calculate the MSD from trajectory data obtained from trackmate for videoparticle tracking without optical tweezers to obtain the viscoisty of the medium (pyvpt).
